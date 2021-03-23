@@ -7,6 +7,12 @@ Here is a brief summary of what I[**](#disclaimers) learned booking COVID-19 vac
 
 Fill out the form on CVS in advance; re-load the page at low traffic times, such as midnight or 4AM.
 
+## Links
+
+[MA Government: How to prepare for your COVID-19 vaccine appointment](https://www.mass.gov/guides/how-to-prepare-for-your-covid-19-vaccine-appointment)  
+[MA Government: Massachusetts' COVID-19 vaccination phases](https://www.mass.gov/info-details/massachusetts-covid-19-vaccination-phases) ("when am I eligible?")  
+[CVS: COVID-19 Vaccine page](https://www.cvs.com/immunizations/covid-19-vaccine)
+
 ## Scheduling
 
 In Massachusetts (the focus of this document), scheduling can ~~easily~~ be done through CVS. To begin, check out the CVS COVID-19 vaccine homepage [here](https://www.cvs.com/immunizations/covid-19-vaccine).
@@ -30,11 +36,13 @@ For instance, if you notice in the images above that the last update was at 2:22
 
 2. Keeping the zip-code search (that appears _after_ the initial form) open can allow you to refresh the scheduling data without needing to re-enter and re-submit the initial form data every time.\
 \
-Instead, simply enter a new zip-code or tap the search button again to refresh the results on this page.
+Instead, simply enter a new zip-code or tap the search button again to refresh the results on this page (note that refreshing this page itself in the browser will kick you back to the initial form).
 
-3. Notice patterns about availability and note those zip-codes for use later. When I was scheduling appointments for my parents, I saw that Greenfield, MA was the closest destination with regularly added appointments. On the scheduling page I made note of the zip-codes to check for Greenfield: 01301 and 01302.
+3. Notice patterns about availability and note those zip-codes for use later. When I was scheduling appointments for my parents, I saw that Greenfield, MA was the closest destination with regularly added appointments. On the scheduling page I made note of the zip-codes to check for Greenfield: 01301 and 01302.\
+\
+In my experience, availability in a given city can appear under one zip-code and not another, so I would always recommend checking all zip-codes you are watching, as well as the city name itself.
 
-4. Have the information you will need to confirm the appointment ready to go when you are attempting to schedule. This information will include: full name, age, date of birth, health care provider (name), member ID, group ID, and a few specific questions pertaining to the vaccine (e.g. have you tested positive for COVID-19 within the last two weeks, do you have any blood disorders, etc.). If you are scheduling for a family / other person, you will want to make sure you have this information in advance of attempting to schedule.
+4. Have the information you will need to confirm the appointment ready to go when you are attempting to schedule. This information will include: full name, age, date of birth, health insurance provider (name), member ID (or medicare ID if relevant), group ID, and a few specific questions pertaining to the vaccine (e.g. have you tested positive for COVID-19 within the last two weeks, do you have any blood disorders, etc.). If you are scheduling for a family / other person, you will want to make sure you have this information in advance of attempting to schedule.
 
 4. Scheduling on a phone can be easier to refresh late at night, especially if you are setting an alarm for yourself to get up in the middle of the night.
 
