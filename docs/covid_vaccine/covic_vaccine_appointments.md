@@ -45,21 +45,23 @@ Here is a step-by-step set of images of the process, when an appointment is avai
 
 ## Tips
 
-1. I have noticed that the appointments seem to refresh about every 15 minutes or so. That said, they are often a few minutes behind, so taking note of the timestamp in the available appointments window can give you an expectation of when they will be updated next.\
+1. The most successful time to look for an appointment is directly after a number of new appointments have been added. Typically this occurs between 12AM and 4AM, as well as between 6AM and 6:30AM on Friday mornings.
+
+2. I have noticed that the appointments seem to refresh about every 15 minutes or so. That said, they are often a few minutes behind, so taking note of the timestamp in the available appointments window can give you an expectation of when they will be updated next.\
 \
 For instance, if you notice in the images above that the last update was at 2:22PM, it may be best to try and reload the page at exactly 2:37PM to see the next update. More importantly, this also means that reloading once every 15 minutes puts you in line with the apparent refresh rate of CVS's backend.
 
-2. Keeping the zip-code search (that appears _after_ the initial form) open can allow you to refresh the scheduling data without needing to re-enter and re-submit the initial form data every time.\
+3. Keeping the zip-code search (that appears _after_ the initial form) open can allow you to refresh the scheduling data without needing to re-enter and re-submit the initial form data every time.\
 \
 Instead, simply enter a new zip-code or tap the search button again to refresh the results on this page (note that refreshing this page itself in the browser will kick you back to the initial form).
 
-3. Notice patterns about availability and note those zip-codes for use later. When I was scheduling appointments for my parents, I saw that Greenfield, MA was the closest destination with regularly added appointments. On the scheduling page I made note of the zip-codes to check for Greenfield: 01301 and 01302.\
+4. Notice patterns about availability and note those zip-codes for use later. When I was scheduling appointments for my parents, I saw that Greenfield, MA was the closest destination with regularly added appointments. On the scheduling page I made note of the zip-codes to check for Greenfield: 01301 and 01302.\
 \
 In my experience, availability in a given city can appear under one zip-code and not another, so I would always recommend checking all zip-codes you are watching, as well as the city name itself.
 
-4. Have the information you will need to confirm the appointment ready to go when you are attempting to schedule. This information will include: full name, age, date of birth, health insurance provider (name), member ID (or medicare ID if relevant), group ID, and a few specific questions pertaining to the vaccine (e.g. have you tested positive for COVID-19 within the last two weeks, do you have any blood disorders, etc.). If you are scheduling for a family / other person, you will want to make sure you have this information in advance of attempting to schedule.
+5. Have the information you will need to confirm the appointment ready to go when you are attempting to schedule. This information will include: full name, age, date of birth, health insurance provider (name), member ID (or medicare ID if relevant), group ID, and a few specific questions pertaining to the vaccine (e.g. have you tested positive for COVID-19 within the last two weeks, do you have any blood disorders, etc.). If you are scheduling for a family / other person, you will want to make sure you have this information in advance of attempting to schedule.
 
-4. Scheduling on a phone can be easier to refresh late at night, especially if you are setting an alarm for yourself to get up in the middle of the night.
+6. Scheduling on a phone can be easier to refresh late at night, especially if you are setting an alarm for yourself to get up in the middle of the night.
 
 ---
 ## Disclaimers
