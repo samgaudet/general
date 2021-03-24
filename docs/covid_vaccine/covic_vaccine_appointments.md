@@ -26,7 +26,23 @@ Scrolling down, you can see if there are any open appointments by clicking the '
 
 When there are appointments available, you will see a hyperlink that will bring you to the scheduling form. This form requires you to answer these questions:
 
-1. _placeholder_
+1. In the past 14 days, have you tested positive for COVID-19?
+2. In the past 14 days, have you been in close contact with anyone who tested positive for COVID-19?
+3. Do you currently have fever, chills, cough, shortness of breath, difficulty breathing, fatigue, muscle or body aches, headache, new loss of taste or smell, sore throat, nausea, vomiting, or diarrhea?
+4. What you need? ("I need to start vaccination" or "I only need to schedule a second dose")
+
+
+
+Here is a step-by-step set of images of the process, when an appointment is available:
+
+![Scheduling](scheduling_0.png)
+![Scheduling](scheduling_1.png)
+![Scheduling](scheduling_2.png)
+![Scheduling](scheduling_3.png)
+![Scheduling](scheduling_4.png)
+![Scheduling](scheduling_5.png)
+![Scheduling](scheduling_6.png)
+![Scheduling](scheduling_7.png)
 
 ## Tips
 
