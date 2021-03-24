@@ -53,7 +53,9 @@ For instance, if you notice in the images above that the last update was at 2:22
 
 3. Keeping the zip-code search (that appears _after_ the initial form) open can allow you to refresh the scheduling data without needing to re-enter and re-submit the initial form data every time.\
 \
-Instead, simply enter a new zip-code or tap the search button again to refresh the results on this page (note that refreshing this page itself in the browser will kick you back to the initial form).
+Instead, simply enter a new zip-code or tap the search button again to refresh the results on this page (note that refreshing this page itself in the browser will kick you back to the initial form).\
+\
+Some people have had luck pre-loading this screen by using another state (not MA) to get past the first screen, before using MA zip-codes in the search bar.
 
 4. Notice patterns about availability and note those zip-codes for use later. When I was scheduling appointments for my parents, I saw that Greenfield, MA was the closest destination with regularly added appointments. On the scheduling page I made note of the zip-codes to check for Greenfield: 01301 and 01302.\
 \
@@ -62,6 +64,24 @@ In my experience, availability in a given city can appear under one zip-code and
 5. Have the information you will need to confirm the appointment ready to go when you are attempting to schedule. This information will include: full name, age, date of birth, health insurance provider (name), member ID (or medicare ID if relevant), group ID, and a few specific questions pertaining to the vaccine (e.g. have you tested positive for COVID-19 within the last two weeks, do you have any blood disorders, etc.). If you are scheduling for a family / other person, you will want to make sure you have this information in advance of attempting to schedule.
 
 6. Scheduling on a phone can be easier to refresh late at night, especially if you are setting an alarm for yourself to get up in the middle of the night.
+
+7. If you live outside of MA, and particularly on the West coast, having a friend on the East coast book for you can be particularly helpful given the odd times when appointments are mainly refreshed.
+
+## Visual examples
+
+Here are two visual examples of key workarounds to use.
+
+### Navigate past the first page using a different state
+
+Note that using a state that has available appointments allows you to access the pre-screen form, which in turn allows you to follow tip number 3 above.
+
+![State selection workaround](state_selection_workaround.gif)
+
+### Use the zip-code search to refresh appointment data
+
+Note that using the search instead of refreshing the page avoids needing to re-enter the form data previously filled-out.
+
+![Zip-code search workaround](zip_code_workaround.gif)
 
 ---
 ## Disclaimers
