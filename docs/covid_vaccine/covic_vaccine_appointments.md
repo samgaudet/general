@@ -17,11 +17,9 @@ Fill out the form on CVS in advance; re-load the page at low traffic times, such
 
 In Massachusetts (the focus of this document), scheduling can ~~easily~~ be done through CVS. To begin, check out the CVS COVID-19 vaccine homepage [here](https://www.cvs.com/immunizations/covid-19-vaccine).
 
-![CVS COVID-19 Homepage](cvs_covid_homepage.png)
-
 Scrolling down, you can see if there are any open appointments by clicking the 'Massachusetts' link, which will open a window within the page (there probably will not be any open appointments).
 
-![CVS COVID-19 State Links](cvs_covid_links.png)
+![CVS COVID-19 State Links](cvs_appointment_check.gif)
 ![CVS COVID-19 MA Available Appointments](cvs_covid_appointments_list.png)
 
 When there are appointments available, you will see a hyperlink that will bring you to the scheduling form. This form requires you to answer these questions:
