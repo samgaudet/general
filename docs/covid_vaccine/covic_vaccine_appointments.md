@@ -35,14 +35,14 @@ When there are appointments available, you will see a hyperlink that will bring 
 
 Here is a step-by-step set of images of the process, when an appointment is available:
 
-![Scheduling](scheduling_0.png)
-![Scheduling](scheduling_1.png)
-![Scheduling](scheduling_2.png)
-![Scheduling](scheduling_3.png)
-![Scheduling](scheduling_4.png)
-![Scheduling](scheduling_5.png)
-![Scheduling](scheduling_6.png)
-![Scheduling](scheduling_7.png)
+![Scheduling](scheduling_0.PNG)
+![Scheduling](scheduling_1.PNG)
+![Scheduling](scheduling_2.PNG)
+![Scheduling](scheduling_3.PNG)
+![Scheduling](scheduling_4.PNG)
+![Scheduling](scheduling_5.PNG)
+![Scheduling](scheduling_6.PNG)
+![Scheduling](scheduling_7.PNG)
 
 ## Tips
 
