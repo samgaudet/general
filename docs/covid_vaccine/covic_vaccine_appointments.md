@@ -43,6 +43,7 @@ Here is a step-by-step set of images of the process, when an appointment is avai
 ![Scheduling](scheduling_5.PNG)
 ![Scheduling](scheduling_6.PNG)
 ![Scheduling](scheduling_7.PNG)
+![Scheduling](scheduling_8.PNG)
 
 ## Tips
 
